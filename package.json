@@ -1,0 +1,20 @@
+{
+  "name": "node.js-exercises",
+  "version": "0.0.0",
+  "description": "node.js-exercises =================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/urobo/node.js-exercises.git"
+  },
+  "author": "Riccardo Buttarelli",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "c0d86789f070491c35a5d63209ad0b0fd27755e7",
+  "bugs": {
+    "url": "https://github.com/urobo/node.js-exercises/issues"
+  }
+}
