@@ -1,0 +1,15 @@
+<h1> <%= name %></h1>
+<h3> Ingredients </h3>
+<hr/>
+<ul>
+	<% ingredients.forEach(function(ingredient){%>
+
+	<li> <%= ingredient %></li>
+	<% }) %>
+</ul>
+
+<h3>Directions</h3>
+<hr/>
+<p> <%= directions %></p>
+
+<a href="/recipes"> Return to the recipes list</a>
