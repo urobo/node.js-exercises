@@ -1,12 +1,12 @@
 {
   "name": "node.js-exercises",
-  "version": "0.0.0",
+  "version": "0.0.7",
   "description": "ERROR: No README.md file found!",
-  "main": "webserver.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies":{"connect":"1.9.2"},
+  "dependencies":{ "express": "2.5.11", "ejs": "0.7.2" },
   "repository": "git@github.com:urobo/node.js-exercises.git",
   "author": "Riccardo Buttarelli",
   "license": "BSD"
